@@ -1,0 +1,5 @@
+16)Che cos'e' l'immunita' al rumore logico?
+43)In una rete sequenziale cosa e' un Feedback?
+46)Mi sai dare una definizione di onda quadra?
+52)Descrivi un'automa di Mealy
+54)Quando due stati sono equivalenti?

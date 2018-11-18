@@ -1,0 +1,55 @@
+1)Quando una codifica si dice non ridondante
+2)Cos'e' un comparatore
+3)Dammi una definizione di overflow
+4)Nell'algebra di boole: dato un insieme A, perche' la cardinalita' di A deve essere una potenza del due?
+5)Definizione sul Teorema di Stone
+6)Nell'algebra di boole si dice che vale il principio di dualita': sapresti dimostrarlo?
+7)Assiomi di boole: dimostrare che x=x(x)x 
+8)Teorema di De Morgan
+9)Quando si dice mintermine?
+10)Quando si dice maxtermine?
+11)Cos'e' una forma canonica?
+12)Dimostrami che le due forme canoniche POS e SOP sono equivalenti
+13)Mi sai dire una tecnica di minimizzazione?
+14)Mappe di Karnaugh
+15)Che cos'e' la logica diretta(Positiva)?
+16)Che cos'e' l'immunita' al rumore logico?
+17)Che cosa e' un MOSFET
+18)Cosa e' un inverter(CMOS)?
+19)Che cosa e' un conflitto logico e elettrico?
+20)Che cosa e' un'uscita open drain?
+21)Che cosa e' un Wired Or?
+22)Un Wired Or puo' essere ugualmente chiamato circuito open drain? Se si perche'
+23)Che cosa e' una rete combinatoria?
+24)Che cosa e' una porta logica?
+25)Che cosa e' un Multiplexer?
+26)Che cosa e' un Demultiplexer?
+27)Che cosa e' un Full-Adder?
+28)Il semi-sommatore(half-adder) realizza una somma a quanti bit?
+29)In un Full-Adder cosa e' il Carry e cosa fa durante la somma?
+30)Che cosa e' un Comparatore Digitale?
+31)Che cosa e' un Decoder?
+32)Differenze tra Decoder e Demultiplexer
+33)Che cosa e' il clock?
+34)Cosa e' un F.F. J/K?
+35)Quante tipologie di clock ci sono e quali sono?
+36)Cosa e' un F.F. Master Slave?
+37)Che cosa e' un F.F. Data?
+38)Che cosa e' un registro?
+39)Come vengono sincronizzate piu' reti?
+40)Che cosa e' una Rete Sequenziale?
+41)Dammi una definizione di F.F. S/R
+42)Cosa e' un F.F. Toggle?
+43)In una rete sequenziale cosa e' un Feedback?
+44)Il F.F. Data e' di tipo sincrono? Perche'?
+45)Che cos'e' un Monostabile?
+46)Mi sai dare una definizione di onda quadra?
+47)Che cosa e' un diagramma a stati?
+48)Descrivi un automa che effettua un'addizione in binario tra 2 bit(sommatore seriale a 2 bit)
+49)Che cos'e' un'automa a stati finiti?
+50)Che cosa e' una tabella di flusso?
+51)Dato uno Shift-Register a 5 bit, mi sapresti dire la differenza tra I/O Seriale e I/O Parallelo?
+52)Descrivi un'automa di Mealy
+53)Descrivi un'automa di Moore
+54)Quando due stati sono equivalenti?
+55)Quando un'automa copre un altro?

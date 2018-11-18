@@ -1,0 +1,5 @@
+16) Non e' altro che la distanza tra due livelli logici in un circuito
+43) Una ricircolazione, esso avviene quando una linea di uscita di una rete viene collegata all'ingresso della stessa rete. In tal modo si formera' una rete sequenziale.
+46) E' un segnale eltettrico prodotto da un circuito simmetrico. Se il circuito e' asimmetrico si parlera' di duty cycle e si esprimera' in percentuale, ci si riferisce al livello alto quindi dire che un certo segnale ha un duty cycle del 40% significa che sta a livello alto il 40% del tempo
+52) Un automa in cui valori di uscita sono determinati dallo stato attuale e dall'ingresso corrente
+54) Se qualunque sequenza di combinazioni di valori dingresso applicata ad S e a S', produce la stessa sequenza di combinazioni di valori di uscita.
